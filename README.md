@@ -1,4 +1,4 @@
-# Assignment-1
+# Assesment-1
 
 React Native Expo app designed to showcase a delightful user experience.
 
@@ -16,7 +16,7 @@ This app offers a seamless interface, blending functionality with aesthetics. It
 ## Screenshots
 
 
-<img src="./assets/Assesment-1.jpg" alt="Screenshot 1" style="height: 400px; width: auto;"/>
+<img src="./assets/Assesment-1.jpg" alt="Screenshot 1" style="height: 600px; width: auto;"/>
 
 ## Usage
 
