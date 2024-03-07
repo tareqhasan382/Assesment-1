@@ -15,7 +15,8 @@ This app offers a seamless interface, blending functionality with aesthetics. It
 
 ## Screenshots
 
-![Screenshot 1](./assets/Assesment-1.jpg)
+
+<img src="./assets/Assesment-1.jpg" alt="Screenshot 1" style="height: 200px; width: auto;"/>
 
 ## Usage
 
